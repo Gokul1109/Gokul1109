@@ -5,8 +5,8 @@
 - Research Intrests : Machine Learing , Deep Learning , Object Detection
 - I daily push myself hard to bring impact from small scale to large scale organisation through revolution of data science :heart: 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Skils         | Technology Learnt| 
+| ------------- |:-------------:   |
+| col 3 is      | right-aligned    |
+| col 2 is      | centered         |  
+| zebra stripes | are neat         |   
