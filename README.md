@@ -54,12 +54,7 @@ Machine Learning Engineer | Applied AI Researcher | Data Science Enthusiast
 ---
 
 # ⚙️ Tools & Platforms I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
 
 ---
 
