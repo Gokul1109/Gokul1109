@@ -4,9 +4,9 @@ Machine Learning Engineer | Applied AI Researcher | Data Science Enthusiast
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [Portfolio Website](https://your-github-portfolio-link/)  
 - 🎓 Pursuing M.Sc in Data and Knowledge Engineering @ Otto von Guericke University, Germany  
-- 🛠 Previously worked at [Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/) as an Associate Software Engineer  
+- 🔭 Here's my [Portfolio Website](https://your-github-portfolio-link/)
+- - 🛠 Previously worked at [Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/) as an Associate Software Engineer  
 - 📈 Specialized in Machine Learning, Deep Learning, Generative AI, Data Analysis, and Computer Vision  
 - 📚 Passionate about research, applied AI, and real-world ML projects  
 - 🌱 Currently exploring Distributed Data Management, Information Retrieval, and LLM Architectures  
