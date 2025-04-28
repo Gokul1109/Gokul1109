@@ -47,36 +47,6 @@ Machine Learning Engineer | Applied AI Researcher | Data Science Enthusiast
 
 ---
 
-# 🏆 Certifications
-
-- Machine Learning with Python – IBM (March 2022)
-- Data Science with R Programming – Simplilearn (March 2021)
-
----
-
-# 📚 Publications
-
-- **Yoga Posture Detection using Machine Learning**  
-  Published in IEEE Xplore | [Read Paper](https://ieeexplore.ieee.org/document/10200266)
-
----
-
-# 🚀 Projects
-
-- **LLM-Powered Conversational Chatbot**  
-  (LangChain + AWS + Retrieval Augmented Generation)
-
-- **Face Mask Detection System**  
-  (YOLOv5, DeepSort, Real-time Tracking)
-
-- **Health Monitoring System**  
-  (IoT Sensors + ThinkSpeak Dashboard)
-
-- **Real-Time Dashboard for Safety Monitoring**  
-  (Multithreaded data capture with ML integration)
-
----
-
 # 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kanna-0a73381b4/)  
