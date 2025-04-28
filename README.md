@@ -58,7 +58,7 @@ Machine Learning Engineer | Applied AI Researcher | Data Science Enthusiast
 
 # 📈 GitHub Stats
 
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokul1109&theme=dark&show_icons=true&hide=issues,contribs)
+![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dark&show_icons=true&hide=issues,contribs)
 
 ---
 
