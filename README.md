@@ -46,7 +46,7 @@ Machine Learning Engineer | Applied AI Researcher | Data Science Enthusiast
 # 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kanna-0a73381b4/)  
-[![Gmail](https://img.shields.io/badge/GmailD14836style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgokulkanna767@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul1109)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul1109)
 
 ---
 
